@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func PathSize() string {
-    return "Path Size Tool"
+    fmt.Println("Path Size Tool")
 }
