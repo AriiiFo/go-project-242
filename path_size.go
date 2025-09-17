@@ -1,1 +1,1 @@
-cmd/hexlet-path-size/main.go
+package cmd/hexlet-path-size/main.go
