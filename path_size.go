@@ -1,1 +1,7 @@
-package cmd/hexlet-path-size/main.go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Path Size Tool")
+}
